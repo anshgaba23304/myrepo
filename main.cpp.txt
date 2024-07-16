@@ -5,5 +5,7 @@ int main(){
 cout<<"hello world"<<endl;
 cout<<2;
 cout<<"git pull";
+int sum=1+3;
+cout<<sum;
 return 0;
 }
