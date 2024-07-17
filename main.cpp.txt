@@ -2,7 +2,12 @@
 using namespace std;
 void bubblesort(){
 
+<<<<<<< HEAD
 
+=======
+void quicksort(){
+//
+>>>>>>> quicksort
 }
 int main(){
 cout<<"hello world"<<endl;
